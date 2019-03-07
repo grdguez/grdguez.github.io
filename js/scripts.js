@@ -1,12 +1,12 @@
 /*!
-    Title: Dev Portfolio Template
-    Version: 1.2.1
-    Last Change: 08/27/2017
-    Author: Ryan Fitzgerald
-    Repo: https://github.com/RyanFitzgerald/devportfolio-template
-    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+  Title: Personal Resume
+    Version: 1.3
+    Last Change: 03/07/2019
+    Author: Guillermo Rodriguez
+    Repo: 
+    Issues: 
 
-    Description: This file contains all the scripts associated with the single-page
+    Description: Single-page
     portfolio website.
 */
 
